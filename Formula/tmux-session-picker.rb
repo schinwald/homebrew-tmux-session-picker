@@ -1,8 +1,8 @@
 class TmuxSessionPicker < Formula
   desc "Interactive picker for tmuxinator projects"
   homepage "https://github.com/schinwald/tmux-session-picker"
-  url "https://github.com/schinwald/tmux-session-picker/releases/download/v0.1.5/tmux-session-picker-darwin-universal.tar.gz"
-  sha256 "86e98d40dac7aa252da63ba6e4f899a8d19193aa2ef705c7b1e96270108051e5"
+  url "https://github.com/schinwald/tmux-session-picker/releases/download/v0.1.6/tmux-session-picker-darwin-universal.tar.gz"
+  sha256 "98cf291c881c3ce49bc7597c0f79a34d68672222f36425404813baf8e6db7580"
   license "MIT"
 
   depends_on :macos
